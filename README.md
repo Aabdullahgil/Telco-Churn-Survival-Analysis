@@ -5,16 +5,13 @@ This project uses **Survival Analysis** to predict when customers are likely to 
 ## 📊 Key Visualizations
 
 ### 1. The Power of Long-Term Contracts
-![Contract Survival](newplot (1).png)
-*Insight: Two-year contracts drastically improve customer survival rates compared to month-to-month plans.*
+![Contract Survival](newplot%20(1).png)
 
 ### 2. Risk Factor Analysis (Cox Hazard Ratios)
-![Hazard Ratios](newplot (2).png)
-*Insight: This chart quantifies how features like Tech Support (reduces risk) and Fiber Optic (increases risk) impact the churn timeline.*
+![Hazard Ratios](newplot%20(2).png)
 
 ### 3. Service Segment Comparison
-![Internet Service](newplot.png)
-*Insight: Fiber optic customers show a unique churn pattern that requires specific retention strategies.*
+![Internet Service](newplot.png)*
 
 ## 🛠 Tech Stack
 - **Python** (Lifelines, Scikit-Survival, Pandas, Plotly)
